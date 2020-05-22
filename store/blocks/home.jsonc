@@ -8,7 +8,7 @@
   },
   "rich-text": {
     "props": {
-      "text": "*Hello, Wosfdsfsfrld!*",
+      "text": "*Hello, World!*",
       "textPosition": "RIGHT"
     }
   },
