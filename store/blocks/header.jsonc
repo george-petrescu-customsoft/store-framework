@@ -88,14 +88,10 @@
         "children": [
             "header-spacer",
             "vtex.menu@2.x:menu#categories",
-            "header-spacer",
             "vtex.menu@2.x:menu#major-appliances",
-            "header-spacer",
             "vtex.menu@2.x:menu#small-appliances",
-            "header-spacer",
             "vtex.menu@2.x:menu#electronics",
             "header-spacer"
-
         ]
     }
 }
