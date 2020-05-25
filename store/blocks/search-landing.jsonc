@@ -5,6 +5,12 @@
         "search-result-layout.customQuery"
       ]
     },
+    "image#landingbanner": {
+        "props": {
+            "src": "https://vtex.com/wp-content/uploads/2019/09/Foto.png",
+            "minWidth": "100%"
+        }
+    },
     "search-result-layout.customQuery": {
         "props": {
           "querySchema": {
